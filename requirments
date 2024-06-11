@@ -1,0 +1,10 @@
+pandas
+chinese_calendar
+cx_Oracle
+logging
+os
+locale
+datetime
+configparser
+pyhive
+pyarrow
